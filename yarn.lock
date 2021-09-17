@@ -982,26 +982,26 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@theatre/core@^0.4.0-dev.17":
-  version "0.4.0-dev.17"
-  resolved "https://registry.yarnpkg.com/@theatre/core/-/core-0.4.0-dev.17.tgz#5b63b9807f6265e2901367c496d74fb821db0a3d"
-  integrity sha512-vzkZQo2LuQxMOllO6u3MRNaFMX0+6TsDyJcOJQmRrex5wZQGVd5CnPpc9LOO4XlDMib4aQjMSnBLg9QkhOROXQ==
+"@theatre/core@0.4.0-dev.19":
+  version "0.4.0-dev.19"
+  resolved "https://registry.yarnpkg.com/@theatre/core/-/core-0.4.0-dev.19.tgz#054c6cb38ff899c05f138cc5ed64ee0fe98f3697"
+  integrity sha512-6Bz9+ThVPB3rcQ84JT87n07q2lyIxW46nmQy/VnieCzG1t7Gfl7bFpGcazjEZ1MOmUHgQvqW9UyGCKg8JlJo2A==
   dependencies:
-    "@theatre/dataverse" "0.4.0-dev.17"
+    "@theatre/dataverse" "0.4.0-dev.19"
 
-"@theatre/dataverse@0.4.0-dev.17":
-  version "0.4.0-dev.17"
-  resolved "https://registry.yarnpkg.com/@theatre/dataverse/-/dataverse-0.4.0-dev.17.tgz#abc6e78c47ab08163d9a5fa2b993ae5bcec15d92"
-  integrity sha512-7RmUxMPCsBosJ+Zxz7M6Ag26YIdHejnlu1PbHjMdA6gbcZF+iXGObNV90Z8LlV1BVrZAcAGRGtHX0hhfGOe3ww==
+"@theatre/dataverse@0.4.0-dev.19":
+  version "0.4.0-dev.19"
+  resolved "https://registry.yarnpkg.com/@theatre/dataverse/-/dataverse-0.4.0-dev.19.tgz#6f9f7124dc0d024ed3ca50757f9c136911865b6c"
+  integrity sha512-oMPWHCMxDF9JmUtsF+ovWSO2jD/zZ97eZl2ZrBa9Txi3avtFoV9BQ80LgEygVPGeto98x+ayp0tLfL0zCsmF0w==
   dependencies:
     lodash-es "^4.17.21"
 
-"@theatre/studio@^0.4.0-dev.17":
-  version "0.4.0-dev.17"
-  resolved "https://registry.yarnpkg.com/@theatre/studio/-/studio-0.4.0-dev.17.tgz#d6fb0f97e798eb9d4107ea6a81fd7154d16c0004"
-  integrity sha512-bN/Td6ip3jaNv0tDd/PZKudJ2XY8eSav5um/NMUCUH3qYy98ggRIVqHW39888lQsK532DBD6e2EDtoCBtqO9Kw==
+"@theatre/studio@0.4.0-dev.19":
+  version "0.4.0-dev.19"
+  resolved "https://registry.yarnpkg.com/@theatre/studio/-/studio-0.4.0-dev.19.tgz#200366b022a0785216a5e6c9f60ca7bde7290460"
+  integrity sha512-1gQlxU9PTxvvcBgYc0ww/O8T0utuVY3xzn3gf+5P20qU2MgTTt1t6XkbTTjgXTBxyvq3pWhREDO3y6/nfF8CPA==
   dependencies:
-    "@theatre/dataverse" "0.4.0-dev.17"
+    "@theatre/dataverse" "0.4.0-dev.19"
     react "^17.0.2"
     react-dom "^17.0.2"
     styled-components "^5.3.0"

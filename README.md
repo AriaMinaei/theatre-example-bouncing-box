@@ -4,4 +4,6 @@ The final state of the project in the [video tutorial](https://youtu.be/icR9EIS1
 
 ## Preview
 
-![Preview](https://raw.githubusercontent.com/AriaMinaei/theatre-example-bouncing-box/main/demo.gif)
+[![Preview](https://raw.githubusercontent.com/AriaMinaei/theatre-example-bouncing-box/main/demo.gif)](https://codesandbox.io/s/github/AriaMinaei/theatre-example-bouncing-box?file=/index.html)
+
+[CodeSandox Demo](https://codesandbox.io/s/github/AriaMinaei/theatre-example-bouncing-box?file=/index.html)

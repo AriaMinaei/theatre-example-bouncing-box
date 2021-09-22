@@ -8,11 +8,11 @@
     "start": "parcel ./index.html"
   },
   "dependencies": {
-    "@theatre/core": "0.4.0-dev.20",
-    "parcel-bundler": "^1.12.5"
+    "parcel-bundler": "^1.12.5",
+    "@theatre/core": "0.4.1",
+    "@theatre/studio": "0.4.1"
   },
   "devDependencies": {
-    "@theatre/studio": "0.4.0-dev.20",
     "typescript": "^4.4.3"
   }
 }

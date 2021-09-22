@@ -982,26 +982,26 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@theatre/core@0.4.0-dev.20":
-  version "0.4.0-dev.20"
-  resolved "https://registry.yarnpkg.com/@theatre/core/-/core-0.4.0-dev.20.tgz#60cd21d0a62216ed909eb43dcb9d137bfba440fa"
-  integrity sha512-jRhxUGAT1l2fmFwgTCRDTss73N25pekTUK1L1/2kuEMtm00hQnUgJRTh65rvZLL44hx8gThEoeNCqNHtvmWLAQ==
+"@theatre/core@0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@theatre/core/-/core-0.4.1.tgz#c8c0e45d08e81d5fca4428a95ba83d2383f3a0e0"
+  integrity sha512-DD3YBW29iDF8VZmHwl9HU58cZ5trrJFrH3Q4BsKacItGO4pRrBWm0fvLUTQP5Qsq7hb8SI6ffe/UyrHq+p3VUg==
   dependencies:
-    "@theatre/dataverse" "0.4.0-dev.20"
+    "@theatre/dataverse" "0.4.1"
 
-"@theatre/dataverse@0.4.0-dev.20":
-  version "0.4.0-dev.20"
-  resolved "https://registry.yarnpkg.com/@theatre/dataverse/-/dataverse-0.4.0-dev.20.tgz#8c1f2293afc65af4a97e1b8c1d5c36d483b9f753"
-  integrity sha512-P5N1WYiii6+hkOPjhQDRmYl09UgrI0/fN23YP5Ops6VO/d/OOcGHBJLUdnTZcpDkHNHrrp5FBMG5ygKLClCtHg==
+"@theatre/dataverse@0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@theatre/dataverse/-/dataverse-0.4.1.tgz#818c121e8cbb28662472488f4c51f314387aa65f"
+  integrity sha512-p1dkpIglARQebqUjpuMq9T2eJMZzobRicSGjjShSUT15y2fOwhnHliMsrqdUXgazon3GuYKzpKIy389OpEp+Zg==
   dependencies:
     lodash-es "^4.17.21"
 
-"@theatre/studio@0.4.0-dev.20":
-  version "0.4.0-dev.20"
-  resolved "https://registry.yarnpkg.com/@theatre/studio/-/studio-0.4.0-dev.20.tgz#523aba4f8ca8b38b0d5011743bb8645e5d11028e"
-  integrity sha512-6heOUXA9W+OR8RY05PV5SM/rCzU/akTGdcLL/HMWf83ATbEzRM9ktUQ1GG9CYE7HYOjQFNSZ4F8KQfeHfbvTFA==
+"@theatre/studio@0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@theatre/studio/-/studio-0.4.1.tgz#43f352efbeced598d31ba1e77779698373c04711"
+  integrity sha512-Hwn5VCLpWvRL1b5h4znuln/5WgeX8ETVH1Cg0wzfBw415FJe9hvKf92aw0afia7qW4nnldgAFBX5JEdLv/DExw==
   dependencies:
-    "@theatre/dataverse" "0.4.0-dev.20"
+    "@theatre/dataverse" "0.4.1"
     react "^17.0.2"
     react-dom "^17.0.2"
     styled-components "^5.3.0"
